@@ -1,0 +1,25 @@
+.container {
+  max-width: 120rem;
+  margin: 0rem auto;
+  background-color: var(--color-grey-light-1);
+  box-shadow: var(--box-shadow-dark);
+  min-height: 20rem;
+}
+
+.header {
+  height: 7rem;
+  background-color: #fff;
+  border-bottom: var(--color-grey-light-2);
+}
+.sidebar {
+  background-color: var(--color-grey-dark-1);
+  flex: 0 0 18%; //grow-shrink-basis (basis=width)
+}
+.content {
+  display: flex;
+}
+
+.hotel-view {
+  background-color: green;
+  flex: 1; //set flex grow so that the item takes up all of the available space
+}
