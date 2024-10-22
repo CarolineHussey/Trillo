@@ -1,2 +1,2 @@
 # Trillo
- A flexbox design project completed as part of Advanced CSS and Sass by Jonas Schmedtmann on Udemy.
+ A flexbox design project completed as part of Advanced CSS and Sass course by Jonas Schmedtmann on Udemy.
